@@ -1,40 +1,55 @@
-Guns and Nuns: Storming Hell — Fan Project
+# 🎮 Game Fan Site (Unofficial)
 
-This is a fan-made website created to showcase and help promote the game Guns and Nuns: Storming Hell.
+❗ **Unofficial fan-made project**
 
-The project was developed as a personal front-end practice and as a tribute to the game, focusing on visual presentation, atmosphere, and accessibility for new players.
+This is a **fan-created website**, made for personal learning, experimentation, and appreciation of the game.  
+It is **NOT official** and **NOT affiliated, endorsed, or associated** with the game developers or publishers in any way.
 
-✨ Features
+All trademarks, names, and assets belong to their respective owners.
 
-Landing page inspired by the game’s visual identity
+---
 
-Embedded official trailer
+## 📌 About the Project
 
-Gameplay videos and screenshots
+This project was created by a fan as a **personal and educational project**.  
+The goal is to practice web development skills and create a community-style fan experience.
 
-Steam wishlist and demo links
+This site is **not intended to promote, advertise, or represent the game officially**.  
+It exists purely as a **fan tribute and learning project**.
 
-Responsive layout for desktop and mobile
+---
 
-Animated character sprites on the main section
+## 🚫 Disclaimer
 
-⚠️ Disclaimer
+- This project has **no connection** with the game developers or publishers  
+- No official assets are claimed as ownership  
+- All rights belong to their respective creators  
+- This is **not an official website**
 
-This website is not affiliated with or endorsed by the game developer.
-All game assets, names, and trademarks belong to their respective owners.
+---
 
-Some media assets were not included due to GitHub file size limitations.
+## 🛠️ Technologies Used
 
-🌐 Live Version
+- HTML  
+- CSS  
+- JavaScript  
 
-👉 https://felipepiaz17reichardt-star.github.io/Guns-and-Nuns-Storming-Hell-Fan-Project-site/
+---
 
-🛠️ Tech Stack
+## 📂 Project Purpose
 
-HTML5
+- Practice front-end development  
+- Experiment with UI/UX ideas  
+- Create a fan-made hub concept  
+- Learn hosting with GitHub Pages  
 
-CSS3
+---
 
-JavaScript
+## 📄 License & Rights
 
-Bootstrap
+This repository does **not claim ownership** over any game-related names, logos, or references.  
+If you are a rights holder and have any concerns, feel free to open an issue.
+
+---
+
+**Made by a fan, for learning and fun.**
