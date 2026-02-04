@@ -1,34 +1,22 @@
-# 🎮 Game Fan Site (Unofficial)
+# 🎮 Game Fan Site (Não Oficial)
 
-❗ **Unofficial fan-made project**
+❗ **Projeto não oficial feito por fã**
 
-This is a **fan-created website**, made for personal learning, experimentation, and appreciation of the game.  
-It is **NOT official** and **NOT affiliated, endorsed, or associated** with the game developers or publishers in any way.
+Este site foi criado por um fã com fins **educacionais e de aprendizado**.  
+Não é oficial e **não possui qualquer ligação, afiliação ou apoio** dos desenvolvedores ou publicadores do jogo.
 
-All trademarks, names, and assets belong to their respective owners.
-
----
-
-## 📌 About the Project
-
-This project was created by a fan as a **personal and educational project**.  
-The goal is to practice web development skills and create a community-style fan experience.
-
-This site is **not intended to promote, advertise, or represent the game officially**.  
-It exists purely as a **fan tribute and learning project**.
+Todos os nomes, marcas e conteúdos relacionados ao jogo pertencem aos seus respectivos donos.
 
 ---
 
-## 🚫 Disclaimer
+## 📌 Sobre
 
-- This project has **no connection** with the game developers or publishers  
-- No official assets are claimed as ownership  
-- All rights belong to their respective creators  
-- This is **not an official website**
+Projeto pessoal para **praticar desenvolvimento web** e experimentar ideias de interface.  
+Não representa o jogo oficialmente nem tem objetivo de promoção.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologias
 
 - HTML  
 - CSS  
@@ -37,20 +25,4 @@ It exists purely as a **fan tribute and learning project**.
 
 ---
 
-## 📂 Project Purpose
-
-- Practice front-end development  
-- Experiment with UI/UX ideas  
-- Create a fan-made hub concept  
-- Learn hosting with GitHub Pages  
-
----
-
-## 📄 License & Rights
-
-This repository does **not claim ownership** over any game-related names, logos, or references.  
-If you are a rights holder and have any concerns, feel free to open an issue.
-
----
-
-**Made by a fan, for learning and fun.**
+**Feito por fã, apenas para aprendizado.**
