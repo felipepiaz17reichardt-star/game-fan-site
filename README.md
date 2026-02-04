@@ -32,7 +32,8 @@ It exists purely as a **fan tribute and learning project**.
 
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+- Bootstrap
 
 ---
 
